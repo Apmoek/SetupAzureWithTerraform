@@ -27,10 +27,10 @@ A simple and credential-free setup to provision Azure resources using Terraform 
 
 4. Run the PowerShell script to initialize and apply the Terraform configuration:
 
-🔐 Note on Credentials
+## 🔐 Note on Credentials
 This setup does not include any credentials. It assumes you're already authenticated via Azure CLI (az login). For production use, consider integrating secure credential management (e.g., Azure Key Vault or environment variables).
 
-📄 License
+## 📄 License
 This project is intended for internal or educational use. Please contact the author for reuse or contributions.
 
 ---
